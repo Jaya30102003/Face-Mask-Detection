@@ -9,7 +9,7 @@ The model is built using Convolutional Neural Networks (CNNs) with TensorFlow an
 - Preprocessing steps including resizing, normalization, and label encoding.
 - CNN-based model trained using TensorFlow/Keras.
 - Model evaluation with accuracy metrics.
-- 
+
 ## 🧠 Model Architecture
 - Conv2D Layers : Extract image features.
 - MaxPooling2D Layers : Reduce dimensionality.
@@ -17,5 +17,7 @@ The model is built using Convolutional Neural Networks (CNNs) with TensorFlow an
 - Dense Layers : Fully connected neural network.
 - Dropout Layers : Reduce overfitting.
 - Output Layer : Sigmoid activation for binary classification.
+  ![image](https://github.com/user-attachments/assets/b1ae62f6-9d16-48d1-b9d8-f35cf1b68646)
+
 
   
